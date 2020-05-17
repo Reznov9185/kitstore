@@ -1,25 +1,16 @@
-# README
-
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
 # kitstore
+
+### Tech:
+1. rails
+2. solidus
+
+
+#### What to do wit this?
+
+1. Learn how Solidus works with spree
+2. Figure out how to extend Solidus
+3. Figure how dependent it is with spree
+
+#### Figured it now
+
+1. Everything is in migrations and configs for now!
